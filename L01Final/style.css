@@ -1,0 +1,55 @@
+img {
+  
+    width: 90px;
+    
+    height: 90px;
+    
+    float: left;
+    }
+    
+    #idCard {
+    
+    border: 5px solid black;
+    
+    height: 14em;
+    
+    width: 25em;
+    background-color:lightgrey;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:25px;
+    font-family: 'Shadows Into Light', cursive;
+    }
+    
+    #postFullName{
+      font-size:30px;
+      text-align:center;
+    }
+    
+    #postAge{
+      padding-left:10px;
+    }
+    
+    #postPhoneNumber{
+      padding-left:10px;
+    }
+    
+    #postAddress{
+      padding-left:10px;
+    }
+    
+    h1{
+      text-align:center;
+      font-weight:bold;
+    }
+    
+    form{
+      text-align:center;
+      padding-bottom:50px;
+      font-weight:bold;
+    }
+    body{
+      background-color:lightblue;
+    }
+    
+    
